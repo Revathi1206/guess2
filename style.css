@@ -1,0 +1,54 @@
+body {
+  background: linear-gradient(to right, red, blue);
+}
+div {
+  font-size: 100px;
+  position: absolute;
+  top: 17%;
+  left: 0%;
+  text-align: center;
+}
+img {
+  height: 250px;
+  width: 250px;
+  border-radius: 50px;
+  border: 7px solid yellow;
+}
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6,
+.img7,
+.img8,
+.img9,
+.img10,
+.img11,
+.img12,
+.img13,
+.img14,
+.img15,
+.img16,
+.img17,
+.img18,
+.img19,
+.img20 {
+  display: none;
+}
+button {
+  height: 100px;
+  width: 200px;
+  margin-bottom: 100px;
+  border-radius: 20px;
+  background-color: aqua;
+  border: 5 px solid black;
+  font-size: 50px;
+}
+h1 {
+  font-size: 50px;
+  color: rgb(40, 135, 148);
+  margin-bottom: 20px;
+  background-color: rgba(0, 0, 0, 0.6);
+  text-align: center;
+}
